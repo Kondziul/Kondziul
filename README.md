@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Konrad</h1>
-<h3 align="center">Computer science student at Bydgoszcz University of Science and Technology</h3>
+<h3 align="center">Graduate of Applied Computer Science at the Bydgoszcz University of Science and Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kondziul&label=Profile%20views&color=0e75b6&style=flat" alt="kondziul" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kondziul" alt="kondziul" /></a> </p>
-
-- 🌱 I’m currently learning **Java, JavaFX, C#, git**
 
 - 📫 How to reach me **wogusiek@wp.pl**
 
